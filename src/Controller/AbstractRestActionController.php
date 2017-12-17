@@ -1,5 +1,5 @@
 <?php
-namespace OpenInvoices\WebService\Controller;
+namespace OpenInvoices\WebService\Rest\Controller;
 
 use Zend\Mvc\Controller\AbstractRestfulController;
 
